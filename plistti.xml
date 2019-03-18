@@ -1,14 +1,304 @@
 <?xml version ="1.0" encoding ="utf-8"?>
-<appList version="2">
+<appList version="3">
+	<!--todo: add thumbURl, rem- dkver cannot be > supported api-->
+    <dkPackage
+        DisplayName="Anysoft Keyboard"
+        DisplayName-iw="מקלדת אניסופט"
+        FileName="1M0ebBzyyocIEGyZaMt_UEV6zJOLYC2h-"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.menny.android.anysoftkeyboard" />
 
     <dkPackage
-        DisplayName="Test"
-        DisplayName-iw="נסיון"
-        FileName="1OnE9ChQyn2HFaxJ1xnrrn63f2MZzDvhw"
+        DisplayName="Anysoft Keyboard - HE"
+        DisplayName-iw="הוספת שפה עברית למקלדת אניסופט"
+        FileName="1VqJay0DHpYfrHat7v7ECjKupSXfLeX5B"
         InstallType="systemOrData"
-        AssetsOwner="this"
-        dkVersion="1"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
         installFromTypes="gid"
-        PackageName="com.example.test" />
-        
-</applist>
+        PackageName="com.anysoftkeyboard.languagepack.hebrew" />
+
+    <dkPackage
+        DisplayName="Battery Circle"
+        DisplayName-iw="מעגל סוללה"
+        FileName="1SsefS9tHwBwFsoeIqZnFapMzCpBT26a5"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="ch.blinkenlights.battery" />
+
+    <dkPackage
+        DisplayName="Calendar"
+        DisplayName-iw="לוח גוגל"
+        FileName="1q3IYf8bfWQGHvZdycaxqypq8X3KUxUsm"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.android.calendar" />
+
+    <dkPackage
+        DisplayName="Calculator"
+        DisplayName-iw="מחשבון"
+        FileName="1LWWMNXEpITyOQx6SRpES6Jxn-W_hpK7F"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.android.calculator2" />
+
+    <dkPackage
+        DisplayName="Clock JB+"
+        DisplayName-iw="שעון JB פלוס"
+        FileName="1HE4xF0CTeYb1eFykrbIaQK8KlnsRUwxG"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.moblynx.clockjbplus" />
+
+    <dkPackage
+        DisplayName="DKBirds"
+        DisplayName-iw="משחק דרוידכשר ציפורים"
+        FileName="1SP6-4fxQ1ewBHqaFxrXh4lAHJsgBIWwQ"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.rovio.angrybirds" />
+
+    <dkPackage
+        DisplayName="GPSStatus"
+        DisplayName-iw="מצפן ג'י.פי. אס סטטוס"
+        FileName="1l_A1r2LqTHfCbjo5mY0z3zerqcf-GoZ-"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.eclipsim.gpsstatus2" />
+
+    <dkPackage
+        DisplayName="HebDate"
+        DisplayName-iw="לוח תאריך-עברי"
+        FileName="1ne5jGW0QgHVwkAR3UhHJbKSrc-70b5GO"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.lionscribe.hebdate" />
+
+    <dkPackage
+        DisplayName="Hebrew-English Translator"
+        DisplayName-iw="מתרגם אנגלית-עברית"
+        FileName="1Me1h1N_Somb9xsfamWPKYKSlMgvjToUS"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.cathyw.iwen" />
+		
+    <dkPackage
+        DisplayName="K9 Mail"
+        DisplayName-iw="דואל K9"
+        FileName="1NknYl0lfDFKWnezCQ-7xhsiwTNA_h7pa"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.fsck.k9" />
+
+    <dkPackage
+        DisplayName="K9 Mail Widget"
+        DisplayName-iw="דואל K9 וויג'ט"
+        FileName="1oyteuvRO77-YtfURgJHpE6dAMJRTPUGV"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.kbsdevelopment.k9mailwidget" />
+
+    <dkPackage
+        DisplayName="Kol Halashon Kiosk"
+        DisplayName-iw="קול הלשון קיוסק"
+        FileName="1fSEFVL2aMJoZCg95-LFSF0rrPHYj3kya"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.khl.kiosk" />
+
+    <dkPackage
+        DisplayName="MapQuest"
+        DisplayName-iw="מפקווסט"
+        FileName="1pwngflf0vFdBG1Wa0Xjz2gOgcl_Eesoh"
+        InstallType="dataOnly"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.mapquest.android.ace" />
+
+    <dkPackage
+        DisplayName="Memo"
+        DisplayName-iw="כתבן"
+        FileName="1wd0-ttj4-uMGbF5c_3EPI1vBWrxtoQMN"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.sec.android.app.memo" />
+
+    <dkPackage
+        DisplayName="Google Music Player"
+        DisplayName-iw="נגן מוזיקה"
+        FileName="1IuhFWHOTmlrVsRsJ6o_yu4JW8xYFz7Ps"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.musicplayer.music" />
+
+    <dkPackage
+        DisplayName="Orayta"
+        DisplayName-iw="אורייתא"
+        FileName="1r_ZXfUrr-Fd8vXa7ClAqNPDqwxgYe_Hf"
+        InstallType="dataOnly"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="org.orayta" />
+
+    <dkPackage
+        DisplayName="Perfect Keyboard"
+        DisplayName-iw="מקלדת פרפקט"
+        FileName="1IRywyopH3W1iBBy2jyafgtL9LNv7vZ69"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="free.inputmethod.latin.perfectkeyboard" />
+
+    <dkPackage
+        DisplayName="Perfect Keyboard - HE"
+        DisplayName-iw="הוספת שפה עברית למקלדת פרפקט"
+        FileName="1W2GyEr4v1cfKq6qKJcbbWV9StWU2gloe"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="pkeyboard.languagepack.hebrew" />
+
+    <dkPackage
+        DisplayName="QuickOffice Editor"
+        DisplayName-iw="עורך קוויק אופיס"
+        FileName="1x8Q1xsHtjfX3m0cqSwSNTWImgIfQc8Tl"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.qo.android.spec" />
+
+    <dkPackage
+        DisplayName="Sefaria"
+        DisplayName-iw="ספריה"
+        FileName="1jC-IXtlvqgDjEwKtPV8kVXoyAzRMba7D"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="org.sefaria.sefaria" />
+
+    <dkPackage
+        DisplayName="SmartList"
+        DisplayName-iw="טליסט 13"
+        FileName="1Kg4WW-uLyDj3-kH--SYut-VhrGwQQLJG"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.lionscribe.elist" />
+
+    <dkPackage
+        DisplayName="Tehillim"
+        DisplayName-iw="תהילים"
+        FileName="1vwgxuXDO-kEhHVhpU6BRzsJ8NUoYbIAt"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="il.avimak.Tehillim" />
+
+    <dkPackage
+        DisplayName="Tfilon"
+        DisplayName-iw="תפילון"
+        FileName="1ZAEtIPIj18KD-ZCAJo_mtKftP3OwPCaU"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="tfilon.tfilon" />
+
+    <dkPackage
+        DisplayName="Google Translate"
+        DisplayName-iw="גוגל תרגום"
+        FileName="16eqJPRxuLO6_pzeJ6v65mQBCrlW0itDm"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.google.android.apps.translate" />
+
+    <dkPackage
+        DisplayName="Waze"
+        DisplayName-iw="וויז"
+        FileName="1-WQ0bDPQiqSyWAISZypDr5zfXUTq96VE"
+        InstallType="dataOnly"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.waze" />
+
+    <dkPackage
+        DisplayName="Zmanim"
+        DisplayName-iw="זמנים"
+        FileName="1PM_Tsq_46-zIA-6rhMtsJB9bHySQGPUE"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.gindin.zmanim.android" />
+
+    <dkPackage
+        DisplayName="Telegram"
+        DisplayName-iw="טלגרם"
+        FileName="1sdxcLLO4G3pi9xp9XVXR_TOiLuPGyXv1"
+        InstallType="dataOnly"
+        assetOwner="this"
+        reqAuth="true" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="org.telegram.messenger" />
+  
+    <!--dkPackage
+        DisplayName="Camera"
+        DisplayName-iw=""
+        FileName="SamsungCamera.apk"
+        InstallType="systemOnly"
+        assetOwner="this"
+        reqAuth="false" dkVersion="1"
+        installFromTypes="gid"
+        PackageName="" />-->
+   
+    <dkPackage
+        DisplayName="WhatsApp"
+        DisplayName-iw="Whatsapp"
+        FileName="https://www.whatsapp.com/android/current/WhatsApp.apk"
+        InstallType="systemOrData"
+        assetOwner="this"
+        reqAuth="true" dkVersion="0"
+        installFromTypes="uri"
+        PackageName="com.whatsapp" />
+
+</appList>
