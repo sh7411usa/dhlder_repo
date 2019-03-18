@@ -1,0 +1,365 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<appList version="2">
+
+    <dkPackage
+        DisplayName="Anysoft Keyboard"
+        DisplayName-iw="מקלדת אניסופט"
+        FileName="ask.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.menny.android.anysoftkeyboard" />
+
+    <dkPackage
+        DisplayName="Anysoft Keyboard - HE"
+        DisplayName-iw="הוספת שפה עברית למקלדת אניסופט"
+        FileName="askheb.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.anysoftkeyboard.languagepack.hebrew" />
+
+    <dkPackage
+        DisplayName="Battery Circle"
+        DisplayName-iw="מעגל סוללה"
+        FileName="battery.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="ch.blinkenlights.battery" />
+
+    <dkPackage
+        DisplayName="Calendar"
+        DisplayName-iw="לוח גוגל"
+        FileName="cal.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.android.calendar" />
+
+    <dkPackage
+        DisplayName="Calculator"
+        DisplayName-iw="מחשבון"
+        FileName="calc.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.android.calculator2" />
+
+    <dkPackage
+        DisplayName="Clock JB+"
+        DisplayName-iw="שעון JB פלוס"
+        FileName="clock.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.moblynx.clockjbplus" />
+
+    <dkPackage
+        DisplayName="DKBirds"
+        DisplayName-iw=" משחק דרוידכשר ציפורים"
+        FileName="dkbirds.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.rovio.angrybirds" />
+
+    <dkPackage
+        DisplayName="GPSStatus"
+        DisplayName-iw="מצפן ג'י.פי. אס סטטוס"
+        FileName="gpsstatus.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.eclipsim.gpsstatus2" />
+
+    <dkPackage
+        DisplayName="HebDate"
+        DisplayName-iw="לוח תאריך-עברי"
+        FileName="hebdate.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.lionscribe.hebdate" />
+
+    <dkPackage
+        DisplayName="Hebrew-English Translator"
+        DisplayName-iw="מתרגם אנגלית-עברית"
+        FileName="heen.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.cathyw.iwen" />
+    <dkPackage
+        DisplayName="K9 Mail"
+        DisplayName-iw="דואל K9"
+        FileName="k9.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.fsck.k9" />
+
+    <dkPackage
+        DisplayName="K9 Mail Widget"
+        DisplayName-iw="דואל K9 וויג'ט"
+        FileName="k9widget.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.kbsdevelopment.k9mailwidget" />
+
+    <dkPackage
+        DisplayName="Kol Halashon Kiosk"
+        DisplayName-iw="קול הלשון קיוסק"
+        FileName="kolhalashon.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.khl.kiosk" />
+
+    <dkPackage
+        DisplayName="MapQuest"
+        DisplayName-iw="מפקווסט"
+        FileName="mapquest.apk"
+        InstallType="dataOnly"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.mapquest.android.ace" />
+
+    <dkPackage
+        DisplayName="Memo"
+        DisplayName-iw="כתבן"
+        FileName="memo.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.sec.android.app.memo" />
+
+    <dkPackage
+        DisplayName="Google Music Player"
+        DisplayName-iw="נגן מוזיקה"
+        FileName="music.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.musicplayer.music" />
+
+    <dkPackage
+        DisplayName="Orayta"
+        DisplayName-iw="אורייתא"
+        FileName="orayta.apk"
+        InstallType="dataOnly"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="org.orayta" />
+
+    <dkPackage
+        DisplayName="Perfect Keyboard"
+        DisplayName-iw="מקלדת פרפקט"
+        FileName="pk.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="free.inputmethod.latin.perfectkeyboard" />
+
+    <dkPackage
+        DisplayName="Perfect Keyboard - HE"
+        DisplayName-iw="הוספת שפה עברית למקלדת פרפקט"
+        FileName="pkheb.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="pkeyboard.languagepack.hebrew" />
+
+    <dkPackage
+        DisplayName="QuickOffice Editor"
+        DisplayName-iw="עורך קוויק אופיס"
+        FileName="quickoffice.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.qo.android.spec" />
+
+    <dkPackage
+        DisplayName="Sefaria"
+        DisplayName-iw="ספריה"
+        FileName="sefaria.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="org.sefaria.sefaria" />
+
+    <dkPackage
+        DisplayName="SmartList 13"
+        DisplayName-iw="סמרטליסט 13"
+        FileName="smartlist13.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.lionscribe.elist" />
+
+    <dkPackage
+        DisplayName="SmartList 16"
+        DisplayName-iw="סמרטליסט 16"
+        FileName="smartlist16.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="2"
+        installFromTypes="asset"
+        PackageName="com.lionscribe.elist" />
+
+    <dkPackage
+        DisplayName="Tehillim"
+        DisplayName-iw="תהילים"
+        FileName="tehillim.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="il.avimak.Tehillim" />
+
+    <dkPackage
+        DisplayName="Tfilon"
+        DisplayName-iw="תפילון"
+        FileName="tfilon.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="tfilon.tfilon" />
+
+    <dkPackage
+        DisplayName="Google Translate"
+        DisplayName-iw="גוגל תרגום"
+        FileName="translate.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.google.android.apps.translate" />
+
+    <dkPackage
+        DisplayName="Waze"
+        DisplayName-iw="וויז"
+        FileName="wazefix.apk"
+        InstallType="dataOnly"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.waze" />
+
+    <dkPackage
+        DisplayName="Zmanim"
+        DisplayName-iw="זמנים"
+        FileName="zmanim.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="com.gindin.zmanim.android" />
+
+    <!--dkPackage
+        DisplayName="Telegram"
+        DisplayName-iw=""
+        FileName="Telegram.apk"
+        InstallType="dataOnly"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="org.telegram.messenger" />
+
+    <dkPackage
+        DisplayName="My Files"
+        DisplayName-iw=""
+        FileName="MyFiles.apk"
+        InstallType="systemOnly"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="" /-->
+
+    <!--dkPackage
+        DisplayName="Camera"
+        DisplayName-iw=""
+        FileName="SamsungCamera.apk"
+        InstallType="systemOnly"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="" />
+
+    <!-dkPackage
+        DisplayName="MMS"
+        DisplayName-iw=""
+        FileName="SecMms.apk"
+        InstallType="systemOnly"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="" />
+
+    <dkPackage
+        DisplayName="SIM Menu"
+        DisplayName-iw=""
+        FileName="Stk.apk"
+        InstallType="systemOnly"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="" />
+
+    <dkPackage
+        DisplayName="Email"
+        DisplayName-iw=""
+        FileName="SecEmail.apk"
+        InstallType="systemOnly"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="" />
+
+    <dkPackage
+        DisplayName="Video Player"
+        DisplayName-iw=""
+        FileName="VideoPlayer.apk"
+        InstallType="systemOnly"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="asset"
+        PackageName="" />
+
+    TODO: req authentication, and check link&ndash;&gt;
+    TODO: fix downloader for https-->
+    <dkPackage
+        DisplayName="WhatsApp"
+        DisplayName-iw=""
+        FileName="https://www.whatsapp.com/android/current/WhatsApp.apk"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="0"
+        installFromTypes="uri"
+        PackageName="com.whatsapp" />
+
+</appList>
