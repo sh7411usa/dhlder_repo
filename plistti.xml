@@ -1,0 +1,14 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<appList version="2">
+
+    <dkPackage
+        DisplayName="Test"
+        DisplayName-iw="נסיון"
+        FileName="1OnE9ChQyn2HFaxJ1xnrrn63f2MZzDvhw"
+        InstallType="systemOrData"
+        AssetsOwner="this"
+        dkVersion="1"
+        installFromTypes="gid"
+        PackageName="com.example.test" />
+        
+</applist>
